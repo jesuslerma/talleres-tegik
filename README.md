@@ -1,14 +1,14 @@
 # talleres-tegik
 
-1. Ruby 
-	1 Basico 
-	2 Funciones, Bloques y Lambdas 
-	3 Clases, Modulos y Mixins 
-	4 Gemas 
-	5 Rack y HTTP 
-	6 Test-driven Development 
-	7 Creacion de Gemas 
-	8 Git, Github y Gitflow 
+* Ruby 
+	* Basico 
+	* Funciones, Bloques y Lambdas 
+	* Clases, Modulos y Mixins 
+	* Gemas 
+	* Rack y HTTP 
+	* Test-driven Development 
+	* Creacion de Gemas 
+	* Git, Github y Gitflow 
 2.	Ruby on Rails
 	2.1	Que es ruby on rails
 	2.2	Comandos Basicos de Ruby on Rails
